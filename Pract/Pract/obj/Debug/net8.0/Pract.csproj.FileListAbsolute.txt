@@ -1,0 +1,14 @@
+D:\вижуал\Pract\Pract\obj\Debug\net8.0\Pract.GeneratedMSBuildEditorConfig.editorconfig
+D:\вижуал\Pract\Pract\obj\Debug\net8.0\Pract.AssemblyInfoInputs.cache
+D:\вижуал\Pract\Pract\obj\Debug\net8.0\Pract.AssemblyInfo.cs
+D:\вижуал\Pract\Pract\obj\Debug\net8.0\Pract.csproj.CoreCompileInputs.cache
+D:\вижуал\Pract\Pract\bin\Debug\net8.0\Pract.exe
+D:\вижуал\Pract\Pract\bin\Debug\net8.0\Pract.deps.json
+D:\вижуал\Pract\Pract\bin\Debug\net8.0\Pract.runtimeconfig.json
+D:\вижуал\Pract\Pract\bin\Debug\net8.0\Pract.dll
+D:\вижуал\Pract\Pract\bin\Debug\net8.0\Pract.pdb
+D:\вижуал\Pract\Pract\obj\Debug\net8.0\Pract.dll
+D:\вижуал\Pract\Pract\obj\Debug\net8.0\refint\Pract.dll
+D:\вижуал\Pract\Pract\obj\Debug\net8.0\Pract.pdb
+D:\вижуал\Pract\Pract\obj\Debug\net8.0\Pract.genruntimeconfig.cache
+D:\вижуал\Pract\Pract\obj\Debug\net8.0\ref\Pract.dll
