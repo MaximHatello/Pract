@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudentGrade xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StudentGrade>
+    <Course>Математика</Course>
+    <Grade>59</Grade>
+  </StudentGrade>
+  <StudentGrade>
+    <Course>Хімія</Course>
+    <Grade>60</Grade>
+  </StudentGrade>
+  <StudentGrade>
+    <Course>Біологія</Course>
+    <Grade>43</Grade>
+  </StudentGrade>
+  <StudentGrade>
+    <Course>Англійська</Course>
+    <Grade>93</Grade>
+  </StudentGrade>
+  <StudentGrade>
+    <Course>Хімія</Course>
+    <Grade>34</Grade>
+  </StudentGrade>
+  <StudentGrade>
+    <Course>Хімія</Course>
+    <Grade>1</Grade>
+  </StudentGrade>
+  <StudentGrade>
+    <Course>Математика</Course>
+    <Grade>23</Grade>
+  </StudentGrade>
+  <StudentGrade>
+    <Course>Математика</Course>
+    <Grade>93</Grade>
+  </StudentGrade>
+  <StudentGrade>
+    <Course>Математика</Course>
+    <Grade>73</Grade>
+  </StudentGrade>
+</ArrayOfStudentGrade>
